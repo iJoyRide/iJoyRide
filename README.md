@@ -29,6 +29,4 @@ I am a awesome full stack developer
 
 <div width="100%" align="center"><a href="https://github.com/iJoyRide/bridge" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=iJoyRide&repo=bridge&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/iJoyRide/ecommerce" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=iJoyRide&repo=ecommerce&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
-
 <div width="100%" align="center"><a href="https://github.com/iJoyRide/valentine" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=iJoyRide&repo=valentine&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/iJoyRide/todo" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=iJoyRide&repo=todo&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a></div>
