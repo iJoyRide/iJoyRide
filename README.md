@@ -4,6 +4,7 @@ Hi 👋 My name is Sum Fei
 I am a awesome full stack developer
 -----------------------------------
 
+I am self-taught programmer, I am enjoy learning and building new projects!
 *   ✉️  You can contact me at [sumfeis3@gmail.com](mailto:sumfeis3@gmail.com)
 *   🧠  I'm learning golang
 ### Skills
