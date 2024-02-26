@@ -1,5 +1,4 @@
 <details open style="background-color: #645394;">
-<summary>👋 About Me</summary>
 
 Hi 👋 My name is Sum Fei
 ========================
