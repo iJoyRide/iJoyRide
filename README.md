@@ -1,5 +1,3 @@
-<details open style="background-color: #645394;">
-
 Hi 👋 My name is Sum Fei
 ========================
 
