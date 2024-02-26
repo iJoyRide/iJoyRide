@@ -23,7 +23,7 @@ My self-taught software journey, complemented with Google's courses, empowered m
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/iJoyRide"><img src="https://github-readme-stats.vercel.app/api?username=iJoyRide&show_icons=true&hide=&count_private=true&title_color=8968CD&text_color=8968CD&icon_color=8968CD&bg_color=232a31&hide_border=true&show_icons=true" alt="iJoyRide's GitHub stats" /></a>
+<a href="http://www.github.com/iJoyRide"><img src="https://github-readme-stats.vercel.app/api?username=iJoyRide&show_icons=true&hide=&count_private=true&title_color=cea2fd&text_color=8968CD&icon_color=8968CD&bg_color=232a31&hide_border=true&show_icons=true" alt="iJoyRide's GitHub stats" /></a>
 
 <a href="http://www.github.com/iJoyRide"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iJoyRide&stroke=ffffff&background=232a31&ring=8968CD&fire=8968CD&currStreakNum=8968CD&currStreakLabel=8968CD&sideNums=8968CD&sideLabels=8968CD&dates=8968CD&hide_border=true" /></a>
 
