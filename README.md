@@ -1,10 +1,8 @@
 Hi 👋 My name is Sum Fei
 ========================
 
-I am a awesome full stack developer
+Working new things!
 -----------------------------------
-
-My self-taught software journey, complemented with Google's courses, empowered me to venture into ReactJS and NextJS for front-end development.
 
 *   ✉️  You can contact me at [sumfeis3@gmail.com](mailto:sumfeis3@gmail.com)
 *   🧠  I'm learning golang
