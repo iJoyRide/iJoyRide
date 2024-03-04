@@ -23,3 +23,5 @@ I am working new projects!
 
 <a href="http://www.github.com/iJoyRide"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iJoyRide&stroke=ffffff&background=0D1117&ring=64748b&fire=64748b&currStreakNum=ffffff&currStreakLabel=64748b&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+![Snake animation](https://github.com/{{iJoyRide}}/{{iJoyRide}}/blob/output/github-contribution-grid-snake.svg)
+
