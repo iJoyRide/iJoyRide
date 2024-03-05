@@ -1,6 +1,6 @@
 Hi 👋 My name is Sum Fei
 ========================
-I am working new projects!
+I am interning as a AI Software Engineer. 
 --------------------------
 * ✉️  You can contact me at [sumfeis3@gmail.com](mailto:sumfeis3@gmail.com)
 * 🧠  I'm learning golang
