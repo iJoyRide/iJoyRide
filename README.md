@@ -3,7 +3,7 @@ Hi 👋 My name is Sum Fei
 I am a AI Software Engineer. 
 --------------------------
 * ✉️  You can contact me at [sumfeis3@gmail.com](mailto:sumfeis3@gmail.com)
-* 🧠  I'm learning golang
+* 🧠  I'm learning golang, django
 
 ### Badges
 
