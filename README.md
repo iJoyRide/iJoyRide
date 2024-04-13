@@ -4,7 +4,8 @@
 <div align="left">
  
 * ✉️  You can contact me at [sumfeis3@gmail.com](mailto:sumfeis3@gmail.com)
-* 🧠  I'm learning golang, django
+* 🧠  I'm using a new tech stack!
+* ⭐  React18, TypeScript, ASP.NET Core7 WebAPI and Entity Framework Core
  </div>
 
 ### Badges
