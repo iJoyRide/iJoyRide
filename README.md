@@ -5,7 +5,7 @@
  
 * ✉️  You can contact me at [sumfeis3@gmail.com](mailto:sumfeis3@gmail.com)
 * 🧠  I'm using a new tech stack!
-* ⭐  React, TypeScript, ASP.NET Core7 WebAPI and Entity Framework Core
+* ⭐  React, TypeScript, ASP.NET Core8 WebAPI and Entity Framework Core
 * 🤞  Learning Java 
   
  </div>
