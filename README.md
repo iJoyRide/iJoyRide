@@ -7,7 +7,7 @@
 * 🧠  I'm using a new tech stack!
 * ⭐  React, TypeScript, ASP.NET Core8 WebAPI and Entity Framework Core
 * 🤞  Learning Java
-* 👍🏻  Developing a examination portal 
+* 👍🏻  Developing an examination portal 
   
  </div>
 
