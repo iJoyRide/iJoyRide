@@ -32,7 +32,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/main/public/assets/snake.svg">
 </div>
 
-<img src="https://raw.githubusercontent.com/iJoyRide/iJoyRide/output/snake.svg" alt="Snake animation" />
-
-###
-
