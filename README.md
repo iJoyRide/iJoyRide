@@ -19,7 +19,7 @@
 
 <a href="http://www.github.com/iJoyRide"><img src="https://github-readme-stats.vercel.app/api?username=iJoyRide&show_icons=true&hide=issues,contribs&count_private=true&title_color=64748b&text_color=ffffff&icon_color=64748b&bg_color=0D1117&hide_border=true&show_icons=true" alt="iJoyRide's GitHub stats" /></a>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=iJoyRide&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=iJoyRide&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
 
 <a href="http://www.github.com/iJoyRide"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iJoyRide&stroke=ffffff&background=0D1117&ring=64748b&fire=64748b&currStreakNum=ffffff&currStreakLabel=64748b&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
