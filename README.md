@@ -19,8 +19,9 @@
 
 <a href="http://www.github.com/iJoyRide"><img src="https://github-readme-stats.vercel.app/api?username=iJoyRide&show_icons=true&hide=issues,contribs&count_private=true&title_color=64748b&text_color=ffffff&icon_color=64748b&bg_color=0D1117&hide_border=true&show_icons=true" alt="iJoyRide's GitHub stats" /></a>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=iJoyRide)](https://git.io/streak-stats)
-
+<a>
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=iJoyRide)](https://git.io/streak-stats)
+</a>
 
 ### Skills
 
