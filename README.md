@@ -4,11 +4,11 @@
 <div align="left">
  
 * ✉️  You can contact me at [sumfeis3@gmail.com](mailto:sumfeis3@gmail.com)
+* ⭐  Azure Data Engineer Associate
+* ⭐  AWS Certified DevOps Engineer - Professional
 * 🧠  I'm using a new tech stack!
-* ⭐  Microsoft Certified: Azure Data Engineer Associate
-* 🤞  Learning Data Engineering, Microsoft Azure, Apache PySpark
-* 👍🏻  Working on a Gym App
-  
+* 🤞  Creating a Job Portal - FastAPI(Core), NextJs, MongoDB, SurrealDB, Docker, Ollama-3.2, Sentence Transformer, OAuth
+* 👍🏻  Working on a Gym App - Golang, Redis, MongoDB, YOLO
  </div>
 
 ### Badges
