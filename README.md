@@ -6,9 +6,6 @@
 * ✉️  You can contact me at [sumfeis3@gmail.com](mailto:sumfeis3@gmail.com)
 * ⭐  Azure Data Engineer Associate
 * ⭐  AWS Certified DevOps Engineer - Professional
-* 🧠  I'm using a new tech stack!
-* 🤞  Creating a Job Portal - FastAPI(Core), NextJs, MongoDB, SurrealDB, Docker, Ollama-3.2, Sentence Transformer, OAuth
-* 👍🏻  Working on a Gym App - Golang, Redis, MongoDB, YOLO
  </div>
 
 ### Badges
